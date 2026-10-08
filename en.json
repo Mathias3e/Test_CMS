@@ -1,0 +1,23 @@
+{
+  "_meta.version": "2.0.0",
+  "_meta.language": "en",
+  "_meta.lastUpdated": "2026-10-08",
+  "_meta.description": "Test content with full text sections for a Git-as-CMS prototype.",
+  "_meta.disclaimer": "General, publicly available information for demo purposes. Not official company information.",
+
+  "solar.title": "Solar power – energy from your own roof",
+  "solar.intro": "Every day, the sun delivers many times more energy than humanity consumes. A photovoltaic system can convert part of it directly into electricity – quietly, without emissions during operation and close to where it is needed. In Switzerland, solar power is one of the fastest-growing energy sources and plays a central role in the Energy Strategy 2050.",
+  "solar.howItWorks": "A photovoltaic system consists of solar modules, usually made of silicon cells. When sunlight hits these cells, electrons are set in motion and direct current is generated. An inverter converts this into alternating current, as used in the home. Any electricity not consumed directly in the house can be stored in a battery or fed into the public grid.",
+  "solar.selfConsumption": "Solar power is most cost-effective when as much of it as possible is consumed directly on site. Every kilowatt hour you use yourself is one you don't have to buy from the grid at a higher price. Shifting consumption to the sunny hours – for example, running the washing machine around midday or charging the electric car during the day – significantly increases self-consumption. Smart energy management systems help by automatically switching on appliances when enough solar power is available.",
+  "solar.storage": "A battery storage system makes solar power usable in the evening and at night as well. During the day, the surplus is stored and released later. Whether storage is worthwhile depends on the consumption profile, the size of the system and electricity prices. For many households, a well-dimensioned system with high direct consumption is the first step; a battery can be added later.",
+  "solar.community": "Not everyone has their own roof. That is why there are models in which several parties share solar power. In a self-consumption community (ZEV), for example, the residents of an apartment building share the electricity from the system on the roof. Local electricity communities (LEG) also make it possible to share electricity within a neighbourhood or municipality.",
+  "solar.winter": "A common question is how much solar power is produced in winter. In fact, a system delivers significantly less in the winter months than in summer. Steeply angled modules, for example on façades, and systems in the mountains are therefore particularly well suited. There, solar radiation above the fog is stronger and the snow reflects additional light.",
+
+  "hydro.title": "Hydropower – the backbone of Switzerland's electricity supply",
+  "hydro.intro": "Switzerland is Europe's water tower: thanks to the Alps and its many rivers and lakes, most of the country's domestically produced electricity comes from hydropower. Hydropower plants are long-lasting, produce no direct CO₂ emissions and, in some cases, can be controlled very flexibly.",
+  "hydro.types": "A distinction is mainly made between run-of-river power plants and storage power plants. Run-of-river plants use the flow of rivers and produce electricity continuously. Storage plants hold water in reservoirs and can then channel it through the turbines precisely when electricity is needed. Pumped-storage plants pump water uphill when there is surplus electricity, functioning like a giant battery.",
+
+  "heatpump.title": "Heat pumps – efficient heating",
+  "heatpump.intro": "A heat pump uses heat from the surroundings – from the air, the ground or groundwater – and, with the help of electricity, raises it to a temperature level sufficient for heating and hot water. Depending on the system, one kilowatt hour of electricity produces three to five kilowatt hours of heat.",
+  "heatpump.combination": "Combining a heat pump with a photovoltaic system makes particular sense. Self-generated solar power can be used directly to produce heat, and a hot water tank allows surplus energy to be stored for later. This reduces both energy costs and dependence on fossil fuels."
+}
