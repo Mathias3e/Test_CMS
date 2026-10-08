@@ -2,8 +2,7 @@
   "_meta.version": "2.0.0",
   "_meta.language": "en",
   "_meta.lastUpdated": "2026-10-08",
-  "_meta.description": "Test content with full text sections for a Git-as-CMS prototype.",
-  "_meta.disclaimer": "General, publicly available information for demo purposes. Not official company information.",
+  "_meta.disclaimer": "General, publicly available information for demo purposes.",
 
   "solar.intro": "Every day, the sun delivers many times more energy than humanity consumes. A photovoltaic system can convert part of it directly into electricity – quietly, without emissions during operation and close to where it is needed. In Switzerland, solar power is one of the fastest-growing energy sources and plays a central role in the Energy Strategy 2050.",
   "solar.howItWorks": "A photovoltaic system consists of solar modules, usually made of silicon cells. When sunlight hits these cells, electrons are set in motion and direct current is generated. An inverter converts this into alternating current, as used in the home. Any electricity not consumed directly in the house can be stored in a battery or fed into the public grid.",
