@@ -1,8 +1,7 @@
 {
   "_meta.version": "2.0.0",
-  "_meta.language": "de-CH",
+  "_meta.language": "de",
   "_meta.lastUpdated": "2026-10-08",
-  "_meta.description": "Test-Inhalte mit ganzen Textabschnitten für einen Git-as-CMS-Prototyp.",
   "_meta.disclaimer": "Allgemeine, öffentlich zugängliche Informationen zu Demo-Zwecken. Keine offiziellen Unternehmensangaben.",
 
   "solar.intro": "Die Sonne liefert jeden Tag ein Vielfaches der Energie, die die Menschheit verbraucht. Mit einer Photovoltaikanlage lässt sich ein Teil davon direkt in Strom umwandeln – leise, ohne Emissionen im Betrieb und ganz in der Nähe des Ortes, an dem er gebraucht wird. In der Schweiz gehört Solarstrom zu den am schnellsten wachsenden Energiequellen und spielt eine zentrale Rolle in der Energiestrategie 2050.",
