@@ -2,7 +2,7 @@
   "_meta.version": "2.0.0",
   "_meta.language": "de",
   "_meta.lastUpdated": "2026-10-08",
-  "_meta.disclaimer": "Allgemeine, öffentlich zugängliche Informationen zu Demo-Zwecken. Keine offiziellen Unternehmensangaben.",
+  "_meta.disclaimer": "Allgemeine, öffentlich zugängliche Informationen zu Demo-Zwecken.",
 
   "solar.intro": "Die Sonne liefert jeden Tag ein Vielfaches der Energie, die die Menschheit verbraucht. Mit einer Photovoltaikanlage lässt sich ein Teil davon direkt in Strom umwandeln – leise, ohne Emissionen im Betrieb und ganz in der Nähe des Ortes, an dem er gebraucht wird. In der Schweiz gehört Solarstrom zu den am schnellsten wachsenden Energiequellen und spielt eine zentrale Rolle in der Energiestrategie 2050.",
   "solar.howItWorks": "Eine Photovoltaikanlage besteht aus Solarmodulen, die meist aus Silizium-Zellen aufgebaut sind. Trifft Sonnenlicht auf diese Zellen, werden Elektronen in Bewegung gesetzt und es entsteht Gleichstrom. Ein Wechselrichter wandelt diesen in Wechselstrom um, wie er im Haushalt verwendet wird. Was nicht direkt im Haus verbraucht wird, kann in einer Batterie gespeichert oder ins öffentliche Stromnetz eingespeist werden.",
